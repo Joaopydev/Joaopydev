@@ -1,7 +1,7 @@
 # joaoribeiro
 
-<h1 align="center">Olá , eu sou João</h1>
-<h3>Eu sou desenvolvedor de python, trabalho com as linguagens Python, HTML e CSS</h3>
+<h1 align="center">Olá, eu sou João</h1>
+<h3>Eu sou Desenvolvedor de Software e trabalho com as linguagens Python, HTML e CSS e Banco de dados SQL</h3>
 
 Atualmente, tenho me dedicado ao estudo e ao aprimoramento das minhas habilidades em alguns dos frameworks mais robustos do Python. Estou focando especialmente em Flask e Django para o desenvolvimento web, utilizando Selenium para automação de testes, Pandas para manipulação e análise de dados e Pathlib para interação eficiente com arquivos.
 
@@ -32,11 +32,10 @@ https://www.linkedin.com/in/jo%C3%A3o-ribeiro-desenvolvedor/
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # GitHub Stats
+# 📊 GitHub Stats
 <div align="center">
-<img height="180em" src="https://github-readmestats.vercel.app/api?username=JoaoRibeiro01&theme=dark&hide_border
-=false&include_all_commits=false&count_private=false"/>
-<img height="180em" src="https://github-readme-streakstats.herokuapp.com/?user=JoaoRibeiro01
-&theme=dark&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/toplangs/?username=JoaoRibeiro01
-&theme=dark&hide_border=false&include_all_commits=false&count_private=fals
-e&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoRibeiro01&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JoaoRibeiro01&theme=dark&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoRibeiro01&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+
+---
