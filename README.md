@@ -31,7 +31,6 @@ https://www.linkedin.com/in/jo%C3%A3o-ribeiro-desenvolvedor/
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-# GitHub Stats
 # 📊 GitHub Stats
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoRibeiro01&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
