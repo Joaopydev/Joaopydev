@@ -1,7 +1,7 @@
 # joaoribeiro
 
 <h1 align="center">Olá👋. Eu sou João</h1>
-<h3>Desenvolvedor de Software e trabalho com as linguagens Python, HTML e CSS e Banco de dados SQL</h3>
+<h3>Desenvolvedor de Software e trabalho com as linguagens Python, HTML, CSS e Banco de dados SQL</h3>
 
 Atualmente, tenho me dedicado ao estudo e ao aprimoramento das minhas habilidades em alguns dos frameworks mais robustos do Python. Estou focando especialmente em Flask e Django para o desenvolvimento web, utilizando Selenium para automação de testes, Pandas para manipulação e análise de dados e Pathlib para interação eficiente com arquivos.
 
