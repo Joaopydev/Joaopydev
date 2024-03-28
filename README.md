@@ -15,5 +15,4 @@
 📫 Feel free to reach out via email.
 📟 Let's connect on LinkedIn!
 
-
-![giphy](https://github.com/JoaoRibeiro01/JoaoRibeiro01/assets/158493175/1e753fac-7148-420d-a643-e86e256cd6f8)
+![giphy](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
