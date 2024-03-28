@@ -1,4 +1,4 @@
-# joaoribeiro
+# João Ribeiro
 
 <h1 align="center">Olá👋. Eu sou João</h1>
 <h3>Desenvolvedor de Software e trabalho com as linguagens Python, HTML, CSS e Banco de dados SQL</h3>
