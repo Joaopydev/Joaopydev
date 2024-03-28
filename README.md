@@ -7,9 +7,9 @@ Atualmente, tenho me dedicado ao estudo e ao aprimoramento das minhas habilidade
 
 Essas ferramentas têm sido fundamentais para expandir meu conhecimento e capacidade técnica. Estou constantemente buscando novos desafios e oportunidades para aplicar essas habilidades e contribuir de forma significativa em projetos que envolvam desenvolvimento web, automação e análise de dados.
 
-## Socials
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)https://www.linkedin.com/in/jo%C3%A3o-ribeiro-desenvolvedor/
+## 🌐 Redes Sociais
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joaomatheuzs/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joao-ribeiro-desenvolvedor/) 
 
 ## Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=forthe-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
