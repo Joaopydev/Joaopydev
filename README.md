@@ -22,4 +22,5 @@
 📟 Let's connect on LinkedIn!
 
 Let's program!
+
 ![giphy](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
