@@ -11,8 +11,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 💻Back-end enthusiast with solid experience in Python and SQL.
+
 🚀 Currently diving deep into the Flask, Django, Selenium, Pandas frameworks.
+
 📫 Feel free to reach out via email.
+
 📟 Let's connect on LinkedIn!
 
 ![giphy](https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif)
