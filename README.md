@@ -15,7 +15,7 @@
 
 🚀 Atualmente mergulhando profundamente nos frameworks Flask, Django, Selenium, Pandas.
 
-📫 Sinta-se à vontade para entrar em contato por [e-mail](@joaomatheus9k@hotmail.com)
+📫 Sinta-se à vontade para entrar em contato por e-mail.(joaomatheus9k@hotmail.com)
 
 📟Vamos nos conectar no [LinkedIn!](https://www.linkedin.com/in/joao-ribeiro-desenvolvedor/)
 
