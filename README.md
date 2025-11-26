@@ -12,7 +12,7 @@
 
 💻Entusiasta Full Stack com sólida experiência em Python e React.
 
-🚀 Atualmente mergulhando profundamente nos frameworks Flask, Django, Selenium, Pandas.
+🚀 Atualmente mergulhando profundamente nos frameworks Flask, Django, FastApi & React.
 
 📫 Sinta-se à vontade para entrar em contato por e-mail : joaomatheus9k@hotmail.com
 
